@@ -1,0 +1,49 @@
+body{
+	background-image: url(lap.jpg);
+	margin:0px;
+	text-align: center;
+}
+header
+   {
+   	margin-left: 80px;
+    color: white;
+   	font-size: 35px;
+   	padding-top: 0px;
+    background-size: cover;
+    text-align: center;
+    font-family: AR JULIAN;
+    padding-top: 30px;
+    margin-bottom: 140px;
+   }
+  a
+    {
+    	text-decoration: none;
+    	font-size: 30px;
+    	background-color: orange;
+    	color: white;
+    	border-radius: 30px;
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	padding-left: 20px;
+    	padding-right: 20px;
+    	font-family: georgia;
+    	margin-right: : 140px;
+
+    }
+ nav
+    {
+    	float: right;
+    	color: orange;
+    	padding-right: 35px;
+    	padding-top: 25px;
+    	font-size: 40px;
+    	background-color: black;
+    	padding-bottom: 25px;
+    	padding-left: 35px;
+    	border-radius: 60px;
+    	
+    }
+ #homehead
+    {
+    	background-color: black;
+    }
